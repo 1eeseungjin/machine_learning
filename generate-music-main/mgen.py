@@ -6,6 +6,7 @@ from pyo import *
 
 from algorithms.genetic import generate_genome, Genome, selection_pair, single_point_crossover, mutation
 
+//flex
 
 BITS_PER_NOTE = 4
 KEYS = ["C", "C#", "Db", "D", "D#", "Eb", "E", "F", "F#", "Gb", "G", "G#", "Ab", "A", "A#", "Bb", "B"]
